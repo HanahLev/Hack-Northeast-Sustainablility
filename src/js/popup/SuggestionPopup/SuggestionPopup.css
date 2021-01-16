@@ -1,0 +1,26 @@
+a {
+    font-size: 8pt;
+    align-self: flex-end;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration:underline;
+}
+
+a:visited {
+    color: black;
+}
+
+.suggestion-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 275px;
+}
+
+.message {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
