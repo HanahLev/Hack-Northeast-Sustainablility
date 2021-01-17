@@ -1,0 +1,12 @@
+.suggestion-box-container {
+    background-color: #a7e687;
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#rating-diff {
+    color: #5bba2b;
+    font-size: 8pt;
+}
