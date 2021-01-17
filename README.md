@@ -12,4 +12,4 @@
 
 ## References
 
-Some database information pulled from: https://www.ethicalconsumer.org/
+Some database information gathered from: https://www.ethicalconsumer.org/
