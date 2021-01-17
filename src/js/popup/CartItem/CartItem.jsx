@@ -15,7 +15,7 @@ class CartItem extends React.Component {
 
         // TODO: this field will be filled by accessing our database
         // using the title of the contents of the cart
-        this.rating = 67;
+        this.rating = 13;
     }
 
     
@@ -26,7 +26,7 @@ class CartItem extends React.Component {
                 <div className="left">
                     <div>In your cart:</div>
                     <div className="itemTitle">{this.itemTitle}</div>
-                    <div>GREEN RATING: {this.rating}/100</div>
+                    <div>GREEN RATING: {this.rating}/20</div>
                 </div>
                 <img src={this.itemImg} alt={`This is a picture of ${this.itemTitle}.`}></img>
             </div>
