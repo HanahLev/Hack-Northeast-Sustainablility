@@ -22,10 +22,17 @@ a:visited {
 
 .message {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     padding: 10px;
-    background-color:#27ae60;
+}
+
+.popupmessage {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color:#90EE90;
     color: black;
     font-size: 10px;
     text-align: center;
+
 }
