@@ -10,3 +10,6 @@
     3. Click on `Load unpacked extension`
     4. Select the `build` folder.
 
+## References
+
+Some database information pulled from: https://www.ethicalconsumer.org/
