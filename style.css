@@ -10,8 +10,10 @@ h1 {
 .header {
     padding: 10px;
     background-color:#27ae60;
-    color: honeydew;
+    color: rgb(115, 230, 186);
     font-size: 20px;
+    text-align: center;
+
 }
 
 .wrapper {
