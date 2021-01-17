@@ -22,10 +22,10 @@ class CartItem extends React.Component {
 
     render() {
         return (
-            <div class="container">
-                <div class="left">
+            <div className="container">
+                <div className="left">
                     <div>In your cart:</div>
-                    <div class="itemTitle">{this.itemTitle}</div>
+                    <div className="itemTitle">{this.itemTitle}</div>
                     <div>GREEN RATING: {this.rating}/100</div>
                 </div>
                 <img src={this.itemImg} alt={`This is a picture of ${this.itemTitle}.`}></img>
